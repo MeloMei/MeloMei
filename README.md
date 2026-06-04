@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Melo 👋
 
-<!--
-**MeloLuvFiona/MeloLuvFiona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer · Agent & Agentic Platform Enthusiast
 
-Here are some ideas to get you started:
+🎓 CS @ Wuhan University · 🐜 Intern @ Ant Group
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Latest Project
+
+**IDEswitcher** — Bidirectional jump between IntelliJ IDEA ↔ Agentic IDEs, preserving file path & cursor position. Built with Kotlin + TypeScript.
+
+### Tech
+
+`Java` · `Kotlin` · `TypeScript`
