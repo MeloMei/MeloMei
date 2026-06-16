@@ -11,7 +11,7 @@
 -  Computer Science @ **Wuhan University**
 -  Agent Enginnering Intern @ **Ant Group**
 -  Building **Agent & Agentic Platform** infrastructure
--  Currently exploring **multi-agent systems**
+-  Currently exploring **multi-agent systems** and **Claude Agent SDK**
 
 ---
 
