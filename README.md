@@ -29,8 +29,6 @@
 ---
 
 
----
-
 ##  GitHub Stats
 
 <div align="center">
@@ -41,5 +39,10 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeloMei&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
+## 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/MeloMei/MeloMei/output/snake-dark.svg)
 
 ---
