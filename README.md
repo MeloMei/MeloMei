@@ -11,7 +11,7 @@
 -  Computer Science @ **Wuhan University**
 -  Agent Enginnering at a top internet company
 -  Building **Agent & Agentic Platform** infrastructure
--  Currently exploring **multi-agent systems** and **Claude Agent SDK**
+-  Currently exploring **Claude Agent SDK** and **Loop Engineering** 
 
 ---
 
