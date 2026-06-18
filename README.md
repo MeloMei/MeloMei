@@ -9,7 +9,7 @@
 ## About Me
 
 -  Computer Science @ **Wuhan University**
--  Agent Enginnering Intern @ **Ant Group**
+-  Agent Enginnering at a top internet company
 -  Building **Agent & Agentic Platform** infrastructure
 -  Currently exploring **multi-agent systems** and **Claude Agent SDK**
 
