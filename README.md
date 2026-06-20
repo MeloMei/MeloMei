@@ -42,7 +42,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MeloMei&theme=tokyonight&show_icons=true&hide_border=true" />
 <img height="170" src="https://streak-stats.demolab.com?user=MeloMei&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeloMei&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
