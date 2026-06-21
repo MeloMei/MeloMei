@@ -46,7 +46,7 @@
 </div>
 
 ---
-## 🐍 Contribution Snake
+## 🐍 lmao
 
 ![snake](https://raw.githubusercontent.com/MeloMei/MeloMei/output/snake-dark.svg)
 
