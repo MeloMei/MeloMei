@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Melo+%F0%9F%91%8B;" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I'm+Melo+%F0%9F%91%8B;" alt="typing" />
 
 </div>
 
@@ -10,12 +10,11 @@
 
 -  Computer Science @ **Wuhan University**
 -  Agent Enginnering at a top internet company
--  Building **Agent & Agentic Platform** infrastructure
 -  Currently exploring **Claude Agent SDK** and **Loop Engineering** 
 
 ---
 
-##  Tech
+## Interest
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -35,7 +34,7 @@
 ---
 
 
-##  GitHub Stats
+##  Stats
 
 <div align="center">
 
@@ -46,7 +45,7 @@
 </div>
 
 ---
-## 🐍 lmao
+## lmao
 
 ![snake](https://raw.githubusercontent.com/MeloMei/MeloMei/output/snake-dark.svg)
 
