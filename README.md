@@ -31,17 +31,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
----
-
-
-##  Stats
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=MeloMei&theme=tokyonight&hide_border=true" />
-
-
-</div>
 
 ---
 ## lmao
