@@ -30,7 +30,19 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
+##项目
+
+**Author**
+- [giki](https://github.com/MeloMei/giki) — Software-engineering approach to LLM Wikis
+- [IDEswitcher](https://github.com/MeloMei/IDEswitcher) — Bidirectional jump between IDEs and AI editors
+
+**Collaborator**
+- [zszz3/agent-session-search](https://github.com/zszz3/agent-session-search) — Agent session management tool
+
+**Contributor**
+- [multica-ai/multica](https://github.com/multica-ai/multica) — Open-source managed agents platform
 
 ---
 ## lmao
