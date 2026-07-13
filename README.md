@@ -10,7 +10,7 @@
 
 -  Computer Science @ **Wuhan University**
 -  Agent Enginnering at a top internet company
--  Currently exploring **Claude Agent SDK** and **Loop Engineering** 
+-  Currently exploring **Pi Agent** and **Loop Engineering** 
 
 ---
 
