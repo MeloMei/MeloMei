@@ -39,7 +39,7 @@
 - [IDEswitcher](https://github.com/MeloMei/IDEswitcher) — Bidirectional jump between IDEs and AI editors
 
 **Collaborator**
-- [zszz3/agent-session-search](https://github.com/zszz3/agent-session-search) — Agent session management tool
+- [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall) — Agent session management tool
 
 **Contributor**
 - [multica-ai/multica](https://github.com/multica-ai/multica) — Open-source managed agents platform
