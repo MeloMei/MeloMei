@@ -10,7 +10,7 @@
 
 -  Computer Science @ **Wuhan University**
 -  Agent Enginnering at a top internet company
--  Currently exploring **Pi Agent** and **Loop Engineering** 
+-  Currently exploring **Pi Agent** **DSH** and **Skill Eval** 
 
 ---
 
