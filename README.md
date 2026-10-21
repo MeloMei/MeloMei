@@ -9,7 +9,6 @@
 ## About Me
 
 -  Computer Science @ **Wuhan University**
--  Agent Enginnering at a top internet company
 -  Currently exploring **Pi Agent** , **DSH** and **Skill Eval** 
 
 ---
@@ -37,6 +36,7 @@
 **Author**
 - [giki](https://github.com/MeloMei/giki) — Software-engineering approach to LLM Wikis
 - [IDEswitcher](https://github.com/MeloMei/IDEswitcher) — Bidirectional jump between IDEs and AI editors
+- [ensemble](https://github.com/MeloMei/ensemble) - A local desktop workbench for working with multiple AI agents in the same project
 
 **Collaborator**
 - [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall) — Agent session management tool
