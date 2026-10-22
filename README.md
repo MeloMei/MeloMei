@@ -6,13 +6,6 @@
 
 ---
 
-## About Me
-
--  Computer Science @ **Wuhan University**
--  Currently exploring **Pi Agent** , **DSH** and **Skill Eval** 
-
----
-
 ## Interest
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
