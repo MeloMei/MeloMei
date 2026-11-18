@@ -2,7 +2,6 @@
 
 **Author**
 - [giki](https://github.com/MeloMei/giki) — Software-engineering approach to LLM Wikis
-- [IDEswitcher](https://github.com/MeloMei/IDEswitcher) — Bidirectional jump between IDEs and AI editors
 - [ensemble](https://github.com/MeloMei/ensemble) - A local desktop workbench for working with multiple AI agents in the same project
 
 **Collaborator**
@@ -10,7 +9,7 @@
 
 **Contributor**
 - [multica-ai/multica](https://github.com/multica-ai/multica) — Open-source managed agents platform
-
+- [zeronsh/zeron](https://github.com/zeronsh/zeron) - A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
 ---
 ## lmao
 
