@@ -6,6 +6,7 @@
 
 **Collaborator**
 - [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall) — Agent session management tool
+- [Taku-OS/taku-os](https://github.com/Taku-OS/taku-os) - An Android system built for agents, the first mobile AIOS in the world
 
 **Contributor**
 - [multica-ai/multica](https://github.com/multica-ai/multica) — Open-source managed agents platform
